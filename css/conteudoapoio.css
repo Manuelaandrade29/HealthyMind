@@ -64,7 +64,7 @@ body{
   
   /* Estilo dos botões */
   .botao {
-    background-color: #012057;
+    background-color: rgb(2, 2, 82);
     color: white;
     padding: 12px 20px;
     border-radius: 8px;
@@ -79,7 +79,7 @@ body{
   
   /* Efeito ao passar o mouse */
   .botao:hover {
-    background-color: #012057;
+    background-color: rgb(2, 2, 82);
   }
   #psiquiatra-info {
     background-color: #f8f8f8;
@@ -113,7 +113,7 @@ body{
   }
   
   .text-box-psiquiatra {
-    background-color: #012057;
+    background-color: rgb(2, 2, 82);
     color: #fff;
     padding: 20px;
     border-radius: 10px;
