@@ -27,3 +27,9 @@
     font-size: 14px;
     text-transform: uppercase
   }
+
+  /* resposta.css */
+h2 {
+  text-align: center;
+  margin-top: 40px;
+}
