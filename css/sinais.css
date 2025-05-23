@@ -28,10 +28,10 @@
     text-transform: uppercase
   }
 
-  body {
+body {
+  font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   background-color: #f0f4f8;
   color: #000000;
 }
