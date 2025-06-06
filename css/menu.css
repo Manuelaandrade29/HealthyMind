@@ -9,6 +9,8 @@
 }
   
 #profile img {
+  display: flex;
+  justify-content:start;
   height: 90px; /* ajusta o tamanho da logo */
 }
   
@@ -19,18 +21,19 @@
   margin: 0;
   padding: 0;
 }
-
+  
 #container nav ul li a {
   color: white;
   text-decoration: none;
   font-weight: bold;
-  font-size: 14px;  
+  font-size: 14px;
   text-transform: uppercase
 }
 
 body{
   margin: 0;
   padding: 0;
+  font-family: Arial, serif;
 }
 
 .container1 {
